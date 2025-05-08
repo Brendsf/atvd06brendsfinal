@@ -1,0 +1,38 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nome": "Cinderela",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptNXkoHUi6XhCxhXlmet1BeJOD4D6j0kwMyCHPg98CAG7BMHKF0_PugGEciyW6zCkE2w&usqp=CAU"
+      }
+    ],
+    "servicos": [
+      {
+        "id": 6,
+        "titulo": "Laboratório",
+        "icon": "https://www.creativefabrica.com/wp-content/uploads/2021/07/06/lab-tube-icon-laboratory-glass-icon-Graphics-14354079-1.jpg"
+      },
+      {
+        "id": 6,
+        "titulo": "Ambulância",
+        "icon": "https://cdn-icons-png.flaticon.com/512/61/61900.png"
+      }
+    
+    ],
+    "doutores": [
+      {
+        "id": 4,
+        "nome": "Dr. Ariel",
+        "especializacao": "Cardio",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz3_GkOd3jm0aeY_43nw4qhBd95j-h-mQiw&s",
+        "rating": 5.0
+      },
+      {
+        "id": 4,
+        "nome": "Dr. Jasmine",
+        "especializacao": "Odonto",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzOaaNbNYOKpY_MMDrIMQ4u4agrrM8aYtxil05iLDCudA-c8zzI_QclvUbEiCPzYKTW8&usqp=CAU",
+        "rating": 3.0
+      }
+    ]
+  }
